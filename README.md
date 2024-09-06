@@ -1,3 +1,6 @@
+video explanation of the above project 
+https://1drv.ms/v/c/46e17f20539c6739/ETnVT6kbsM1LpgqqZxb1TxoBNPazBRmOPaFoeL4Lip1KWA?e=Kx83T6
+
 # Handling Imbalance data 
 
 This file contain 3 ways to treat the imbalance data which means the majority of data is the target variable or dependent variable is more then the minority class  
